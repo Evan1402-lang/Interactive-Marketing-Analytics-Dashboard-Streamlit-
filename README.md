@@ -16,4 +16,4 @@ An interactive web dashboard built with Streamlit and Plotly to enable marketing
 - **Data Export:** Built-in CSV downloader for reporting.
 
 ## 🔗 Live Application
-👉 [Click Here to Access Live App](https://YOUR-APP-NAME.streamlit.app) *(Replace with your deployment link)*
+👉 [Click Here to Access Live App]([https://dvcdu9ifp86j5vvq7uj2pp.streamlit.app/]) *(Replace with your deployment link)*
